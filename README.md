@@ -95,4 +95,4 @@ Typescript;
 
 ## API para consumo
 
-coming soon
+https://teste.deliverycenter.io/graphiql
